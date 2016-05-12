@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="position">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+    </string-array>
+    <string-array name="tieude">
+        <item>Chương I:NHỮNG QUY ĐỊNH CHUNG</item>
+        <item>Điều 1. Phạm vi điều chỉnh</item>
+        <item>Điều 2. Đối tượng áp dụng</item>
+        <item>Điều 3. Áp dụng pháp luật</item>
+        <item>Điều 4. Giải thích từ ngữ</item>
+        <item>Điều 5. Phạm vi ngân sách nhà nước</item>
+        <item>Điều 6. Hệ thống ngân sách nhà nước</item>
+        <item>Điều 7. Nguyên tắc cân đối ngân sách nhà nước</item>
+        <item>Điều 8. Nguyên tắc quản lý ngân sách nhà nước</item>
+        <item>Điều 9. Nguyên tắc phân cấp quản lý nguồn thu, nhiệm vụ chi và quan hệ giữa các cấp ngân sách</item>
+        <item>Điều 10. Dự phòng ngân sách nhà nước</item>
+        <item>Điều 11. Quỹ dự trữ tài chính</item>
+        <item>Điều 12. Điều kiện thực hiện thu, chi ngân sách nhà nước</item>
+        <item>Điều 13. Kế toán, quyết toán thu, chi ngân sách nhà nước</item>
+        <item>Điều 14. Năm ngân sách</item>
+        <item>Điều 15. Công khai ngân sách nhà nước</item>
+        <item>Điều 16. Giám sát ngân sách nhà nước của cộng đồng</item>
+        <item>Điều 17. Kế hoạch tài chính 05 năm</item>
+        <item>Điều 18. Các hành vi bị cấm trong lĩnh vực ngân sách nhà nước</item>
+        <item>Chương II :NHIỆM VỤ, QUYỀN HẠN CỦA CÁC CƠ QUAN NHÀ NƯỚC VÀ TRÁCH NHIỆM, NGHĨA VỤ CỦA TỔ CHỨC,CÁ NHÂN VỀ NGÂN SÁCH NHÀ NƯỚC</item>
+        <item>Điều 19. Nhiệm vụ, quyền hạn của Quốc hội</item>
+        <item>Điều 20. Nhiệm vụ, quyền hạn của Ủy ban thường vụ Quốc hội</item>
+        <item>Điều 21. Nhiệm vụ, quyền hạn của Ủy ban tài chính, ngân sách của Quốc hội</item>
+        <item>Điều 22. Nhiệm vụ, quyền hạn của Hội đồng dân tộc và các Ủy ban khác của Quốc hội</item>
+        <item>Điều 23. Nhiệm vụ, quyền hạn của Kiểm toán nhà nước</item>
+        <item>Điều 24. Nhiệm vụ, quyền hạn của Chủ tịch nước</item>
+        <item>Điều 25. Nhiệm vụ, quyền hạn của Chính phủ</item>
+        <item>Điều 26. Nhiệm vụ, quyền hạn của Bộ Tài chính</item>
+        <item>Điều 27. Nhiệm vụ, quyền hạn của Bộ Kế hoạch và Đầu tư</item>
+        <item>Điều 28. Nhiệm vụ, quyền hạn của Ngân hàng Nhà nước Việt Nam</item>
+        <item>Điều 29. Nhiệm vụ, quyền hạn của bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ và cơ quan khác ở trung ương</item>
+        <item>Điều 30. Nhiệm vụ, quyền hạn của Hội đồng nhân dân các cấp</item>
+        <item>Điều 31. Nhiệm vụ, quyền hạn của Ủy ban nhân dân các cấp</item>
+        <item>Điều 32. Nhiệm vụ, quyền hạn của đơn vị dự toán ngân sách</item>
+        <item>Điều 33. Nhiệm vụ, quyền hạn của chủ đầu tư</item>
+        <item>Điều 34. Quyền hạn, nghĩa vụ của cơ quan, tổ chức, đơn vị, cá nhân có liên quan đến ngân sách nhà nước</item>
+        <item>Chương III NGUỒN THU, NHIỆM VỤ CHI CỦA NGÂN SÁCH CÁC CẤP</item>
+        <item>Điều 35. Nguồn thu của ngân sách trung ương</item>
+        <item>Điều 36. Nhiệm vụ chi của ngân sách trung ương</item>
+        <item>Điều 37. Nguồn thu của ngân sách địa phương</item>
+        <item>Điều 38. Nhiệm vụ chi của ngân sách địa phương</item>
+        <item>Điều 39. Nguyên tắc phân cấp nguồn thu, nhiệm vụ chi giữa ngân sách các cấp ở địa phương</item>
+        <item>Điều 40. Xác định số bổ sung cân đối ngân sách, bổ sung có mục tiêu và tỷ lệ phần trăm (%) phân chia các khoản thu giữa ngân sách các cấp</item>
+        <item>Chương IV LẬP DỰ TOÁN NGÂN SÁCH NHÀ NƯỚC</item>
+        <item>Điều 41. Căn cứ lập dự toán ngân sách nhà nước hằng năm</item>
+        <item>Điều 42. Yêu cầu lập dự toán ngân sách nhà nước hằng năm</item>
+        <item>Điều 43. Kế hoạch tài chính - ngân sách nhà nước 03 năm</item>
+        <item>Điều 44. Thời gian hướng dẫn lập, xây dựng, tổng hợp, quyết định và giao dự toán ngân sách nhà nước</item>
+        <item>Điều 45. Trách nhiệm của các cơ quan, tổ chức, đơn vị trong việc lập dự toán ngân sách hằng năm</item>
+        <item>Điều 46. Thảo luận và quyết định dự toán ngân sách nhà nước, phương án phân bổ ngân sách hằng năm</item>
+        <item>Điều 47. Các tài liệu trình dự toán ngân sách nhà nước và phương án phân bổ ngân sách</item>
+        <item>Điều 48. Lập lại dự toán ngân sách nhà nước</item>
+        <item>Chương V CHẤP HÀNH NGÂN SÁCH NHÀ NƯỚC</item>
+        <item>Điều 49. Phân bổ và giao dự toán ngân sách nhà nước</item>
+        <item>Điều 50. Yêu cầu và thời hạn về phân bổ và giao dự toán ngân sách nhà nước</item>
+        <item>Điều 51. Tạm cấp ngân sách</item>
+        <item>Điều 52. Điều chỉnh dự toán ngân sách nhà nước</item>
+        <item>Điều 53. Điều chỉnh dự toán đã giao cho các đơn vị sử dụng ngân sách</item>
+        <item>Điều 54. Tổ chức điều hành ngân sách nhà nước</item>
+        <item>Điều 55. Tổ chức thu ngân sách nhà nước</item>
+        <item>Điều 56. Tổ chức chi ngân sách nhà nước</item>
+        <item>Điều 57. Ứng trước dự toán ngân sách năm sau</item>
+        <item>Điều 58. Xử lý thiếu hụt tạm thời quỹ ngân sách nhà nước</item>
+        <item>Điều 59. Xử lý tăng, giảm thu, chi so với dự toán trong quá trình chấp hành ngân sách nhà nước</item>
+        <item>Điều 60. Báo cáo tình hình chấp hành ngân sách nhà nước</item>
+        <item>Điều 61. Quản lý, sử dụng ngân sách của đơn vị sử dụng ngân sách</item>
+        <item>Điều 62. Quản lý ngân quỹ nhà nước</item>
+        <item>Chương VI KẾ TOÁN, KIỂM TOÁN VÀ QUYẾT TOÁN NGÂN SÁCH NHÀ NƯỚC</item>
+        <item>Điều 63. Kế toán, quyết toán ngân sách nhà nước</item>
+        <item>Điều 64. Xử lý thu, chi ngân sách nhà nước cuối năm</item>
+        <item>Điều 65. Yêu cầu quyết toán ngân sách nhà nước</item>
+        <item>Điều 66. Duyệt quyết toán ngân sách nhà nước</item>
+        <item>Điều 67. Thẩm định quyết toán ngân sách nhà nước</item>
+        <item>Điều 68. Lập quyết toán ngân sách nhà nước của đơn vị dự toán ngân sách và chủ đầu tư</item>
+        <item>Điều 69. Thời hạn và trình tự quyết toán ngân sách địa phương</item>
+        <item>Điều 70. Thời hạn và trình tự quyết toán ngân sách nhà nước</item>
+        <item>Điều 71. Kiểm toán báo cáo quyết toán ngân sách nhà nước, báo cáo quyết toán ngân sách địa phương</item>
+        <item>Điều 72. Xử lý kết dư ngân sách nhà nước</item>
+        <item>Điều 73. Xử lý các khoản thu, chi ngân sách nhà nước không đúng quy định sau khi quyết toán ngân sách nhà nước được phê chuẩn</item>
+        <item>Chương VII ĐIỀU KHOẢN THI HÀNH</item>
+        <item>Điều 74. Hướng dẫn thi hành đối với một số nội dung đặc thù</item>
+        <item>Điều 75. Điều khoản chuyển tiếp</item>
+        <item>Điều 76. Hiệu lực thi hành</item>
+        <item>Điều 77. Quy định chi tiết</item>
+    </string-array>
+</resources>
+
